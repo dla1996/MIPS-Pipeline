@@ -1,6 +1,0 @@
-﻿  main.cpp
-c:\users\denwi\onedrive\documents\college stuff\2017-2018 classes\computer architecture\mips_simulator\mips_simulator\main.cpp(217): warning C4018: '<': signed/unsigned mismatch
-c:\users\denwi\onedrive\documents\college stuff\2017-2018 classes\computer architecture\mips_simulator\mips_simulator\main.cpp(660): warning C4018: '<': signed/unsigned mismatch
-c:\users\denwi\onedrive\documents\college stuff\2017-2018 classes\computer architecture\mips_simulator\mips_simulator\main.cpp(664): warning C4018: '<': signed/unsigned mismatch
-  MIPS_Simulator.vcxproj -> C:\Users\denwi\OneDrive\Documents\College stuff\2017-2018 Classes\Computer Architecture\MIPS_Simulator\Debug\MIPS_Simulator.exe
-  MIPS_Simulator.vcxproj -> C:\Users\denwi\OneDrive\Documents\College stuff\2017-2018 Classes\Computer Architecture\MIPS_Simulator\Debug\MIPS_Simulator.pdb (Full PDB)
